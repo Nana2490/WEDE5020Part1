@@ -22,7 +22,7 @@ Rosebank College: The Independent Institute of Education (IIE)
 
 ## Project Overview
 
-SheFit Gym is a made-up gym that I would one day love to bring to life...it is a welcoming and empowering space where women can feel comfortable and motivated to stay active. This amazing website was built using only HTML and focuses on basic web desigs like structure, navigation, and user-friendly layout.
+SheFit Fitness Gym is a made-up gym that I would one day love to bring to life...it is a welcoming and empowering space where women can feel comfortable and motivated to stay active. This amazing website was built using only HTML and focuses on basic web designs.
 
 ## Website Goals and Objectives
 
@@ -50,7 +50,7 @@ Finished Part 1 – all pages linked and layout finalized
 ## Part 1: Pages Included
 
 - `home.html` – Home page. 
-- `aboutus.html` – About SheFit Fiteness Gym, founder and trainers.  
+- `aboutus.html` – About SheFit Fitness Gym, founder and trainers.  
 - `classes.html` – Memberships and classes.  
 - `contactus.html` – Contact page and socials. 
 - `book.html` – booking private training session.
